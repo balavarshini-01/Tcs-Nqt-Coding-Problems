@@ -1,3 +1,39 @@
+/*Given an array consists of n elements you have to print the elements which has appeared even number of times
+
+a) N size of array
+
+b) Next line contains elements of array
+
+Print the elements which has appeared even number of times
+
+Constraints:
+
+Size of array should be greater than zero
+
+Elements of array should be greater than zero
+
+Input Format:
+
+1) The first line of input contains the value N size of array
+
+II) The second line of input contains elements of array
+
+Output Format:
+
+Print the elements which have appeared even number of times
+
+Sample Input1:
+
+N=5
+
+L[]=1 1 2 3 2
+
+Sample Output 1:
+
+1 2
+(as 1 has appeared 2 times and 2 has appeared 2 times which is even so we print elements 1 and 2) */
+
+
 import java.util.*;
 public class Main
 {
